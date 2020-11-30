@@ -1,0 +1,54 @@
+.glbl-map{
+    background:linear-gradient(45.7deg, #000000 19.14%, #01002A 68.75%);
+    opacity: 1;
+}
+.c-head p:nth-child(1) {
+    font-size: 44px;
+    font-style: italic;
+}
+.map-counter .target{
+    display: inline;
+    text-align: left;
+    background: #111117;
+border-radius: 8px;
+    padding: 1rem 0.3rem;
+}
+.map-counter .target img {
+    width: 80px;
+    height: auto;
+    float: left;
+    margin-top: 2rem;
+}
+.map-counter .target span.map__count {
+    font-size: 30px;
+    line-height: 40px;
+}
+.map-counter .target span.map_txt {
+    font-size: 14px;
+    line-height: 1rem;
+}
+
+
+.product-servicemain {
+    background: #F4F4F4;
+}
+.contact-btn {
+    border: none;
+    font-weight: bold;
+    font-size: 17px;
+    color: #ffffff;
+    outline: none;
+    cursor: pointer;
+    background: linear-gradient(90deg, #FF5624 0%, #FFA802 95.19%);
+    border-radius: 30px;
+    padding: 14px 40px;
+}
+.mmt-250 {
+    margin-top: -242px;
+}
+.image-round {
+    background-color: #F2F2F2;
+}
+.find-here {
+    box-shadow: 0 0 0 transparent;
+}

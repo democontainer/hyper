@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1366px){
+.dropdown-content ul li a p span:nth-child(2){
+	font-size:8px;
+}
+.dropdown-content ul li a p{
+font-size:12px;
+}
+}
+@media only screen and (max-width: 1300px)
+.accordionItem.open .accordionItemHeading:after{
+	top:0;
+	bottom:0;
+	margin:auto;
+}
+.glbl-map .c-head h3{
+	font-size:38px;
+}
+.map-target-block h3{
+	font-size:28px;
+}
+.product-head p{
+	font-size:32px;
+	line-height:46px;
+}
+.findbox-head{
+	font-size:18px;
+	line-height:28px;
+}
+.footer-menu li a{
+	font-size:16px;
+}
+}
